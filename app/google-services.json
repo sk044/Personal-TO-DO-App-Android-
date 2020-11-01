@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "607621079515",
+    "firebase_url": "https://todo-personal-9c738.firebaseio.com",
+    "project_id": "todo-personal-9c738",
+    "storage_bucket": "todo-personal-9c738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607621079515:android:fd2520e3a113be68b807fe",
+        "android_client_info": {
+          "package_name": "com.sk.todopersonal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607621079515-gmarrc2qojb42odjifiesq003gk55bqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-AjWyEr9fdOskux03r_Qwm277iCxgZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607621079515-gmarrc2qojb42odjifiesq003gk55bqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607621079515:android:8cb36a3f9e6fda66b807fe",
+        "android_client_info": {
+          "package_name": "com.sk.worldpeaceissuesmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607621079515-gmarrc2qojb42odjifiesq003gk55bqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-AjWyEr9fdOskux03r_Qwm277iCxgZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607621079515-gmarrc2qojb42odjifiesq003gk55bqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
